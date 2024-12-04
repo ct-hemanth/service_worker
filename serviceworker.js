@@ -1,4 +1,4 @@
-const cacheName = "sai-v4";
+const cacheName = "sai-v1";
 const cacheAssets = ["index.html", "js/main.js", "img/a.png"];
 
 // Install Event
